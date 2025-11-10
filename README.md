@@ -30,7 +30,7 @@ other-html-files     # Any additional UI pages or forms
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/shashank2043/CarRental.git
+    git clone https://github.com/chakri574/CarRental.git
     cd CarRental
     ```
 2. **Set up Java** (if not already installed).
@@ -43,8 +43,3 @@ other-html-files     # Any additional UI pages or forms
 
 Contributions are welcome! Please fork the repo and open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) (add if applicable).
-
----
